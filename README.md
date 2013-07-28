@@ -76,3 +76,5 @@ sói ra, hi vọng cứu được hai em nhưng thực tế những gì
 sót lại chỉ là xương và thịt. Nếu heo út và heo anh nhì
 cẩn thận hơn thì đã không phải cùng chia sẻ số phận hẩm hiu
 này.
+
+Bài học rút ra là phải chậm và chắc. Lập trình cũng vậy.
