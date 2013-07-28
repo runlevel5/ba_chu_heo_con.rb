@@ -62,6 +62,6 @@ toàn kiệt sức, lăn đùng ra đất thở hổn hển. Nhân thời
 cơ sói đang hồi sức, heo anh cả vác rìu ra và… một tiếng
 phập. Đầu sói lìa khỏi xác. Heo anh cả dùng dao mổ bụng
 sói ra, hi vọng cứu được hai em nhưng thực tế những gì
-sót lại chỉ là xương và thit. Nếu heo út và heo anh nhì
+sót lại chỉ là xương và thịt. Nếu heo út và heo anh nhì
 cẩn thận hơn thì đã không phải cùng chia sẻ số phận hẩm hiu
 này.
