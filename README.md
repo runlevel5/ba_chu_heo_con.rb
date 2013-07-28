@@ -1,5 +1,7 @@
 ## Ba chú heo con
 
+![3 chú heo con](https://github.com/joneslee85/ba_chu_heo_con.rb/raw/master/header.jpg)
+
 __LƯU Ý__: truyện không phù hợp với trẻ con!
 
 Truyện kể rằng có ba chú heo con sống rất hạnh phúc
