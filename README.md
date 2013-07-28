@@ -2,6 +2,17 @@
 
 ![3 chú heo con](https://github.com/joneslee85/ba_chu_heo_con.rb/raw/master/header.jpg)
 
+Thông qua câu chuyện ngụ ngôn ba chú heo con, tôi muốn hướng dẫn bạn viết một chương trình Ruby theo phương pháp TDD, sau đó tôi sẽ refactor lại theo kiểu BDD. Hi vọng nó sẽ giúp bạn hiểu sự khác biệt của 2 trường phái lập trình này.
+
+Mã nguồn của 2 cách được lưu trong thư mục TDD và BDD. Tôi viết cả hai với Ruby 1.9.3
+và test với minitest. Để chạy test như sau:
+
+```bash
+ruby ba_chu_heo_con_spec.rb
+```
+
+### Nội dung truyện
+
 __LƯU Ý__: truyện không phù hợp với trẻ con!
 
 Truyện kể rằng có ba chú heo con sống rất hạnh phúc
