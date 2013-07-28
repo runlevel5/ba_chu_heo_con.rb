@@ -23,8 +23,7 @@ describe 'Chuyện ba chú heo con' do
     describe 'chó sói tấn công' do
       describe 'chó sói thổi với sức gió 1' do
         it 'nhà rơm bị đổ' do
-          @sói.thổi(@nhà_rơm, 1)
-          @nhà_rơm.bị_đổ.must_equal true
+          @nhà_rơm.đổ?(@sói.thổi).must_equal true
         end
       end
     end
@@ -42,15 +41,13 @@ describe 'Chuyện ba chú heo con' do
     describe 'chó sói tấn công' do
       describe 'chó sói thổi với sức gió 1' do
         it 'nhà gỗ không bị đổ' do
-          @sói.thổi(@nhà_gỗ, 1)
-          @nhà_gỗ.bị_đổ.must_equal false
+          @nhà_gỗ.đổ?(@sói.thổi).must_equal false
         end
       end
 
       describe 'chó sói thổi với sức gió 2' do
         it 'nhà gỗ bị đổ' do
-          @sói.thổi(@nhà_gỗ, 2)
-          @nhà_gỗ.bị_đổ.must_equal true
+          @nhà_gỗ.đổ?(@sói.thổi(2)).must_equal true
         end
       end
     end
@@ -66,22 +63,19 @@ describe 'Chuyện ba chú heo con' do
     describe 'chó sói tấn công' do
       describe 'chó sói thổi với sức gió 1' do
         it 'nhà gạch không bị đổ' do
-          @sói.thổi(@nhà_gạch, 1)
-          @nhà_gạch.bị_đổ.must_equal false
+          @nhà_gạch.đổ?(@sói.thổi).must_equal false
         end
       end
 
       describe 'chó sói thổi với sức gió 2' do
         it 'nhà gạch không bị đổ' do
-          @sói.thổi(@nhà_gạch, 2)
-          @nhà_gạch.bị_đổ.must_equal false
+          @nhà_gạch.đổ?(@sói.thổi(2)).must_equal false
         end
       end
 
       describe 'chó sói thổi với sức gió 3' do
         it 'nhà gạch không bị đổ' do
-          @sói.thổi(@nhà_gạch, 2)
-          @nhà_gạch.bị_đổ.must_equal false
+          @nhà_gạch.đổ?(@sói.thổi(3)).must_equal false
         end
       end
     end

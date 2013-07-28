@@ -8,11 +8,7 @@ class Nhà
   end
 
   def đổ?(sức_gió = 1)
-    if vật_liệu.mức_gió_chịu_được <= sức_gió
-      true
-    else
-      false
-    end
+    vật_liệu.mức_gió_chịu_được <= sức_gió ? true : false
   end
 end
 

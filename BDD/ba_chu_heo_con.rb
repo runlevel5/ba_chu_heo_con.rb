@@ -17,17 +17,20 @@ class Heo
 end
 
 class Nhà
-  attr_accessor :vật_liệu, :bị_đổ
+  attr_accessor :vật_liệu
 
   def initialize(vật_liệu)
     @vật_liệu = vật_liệu
-    @bị_đổ  ||= false
+  end
+
+  def đổ?(sức_gió)
+    @vật_liệu.mức_gió_chịu_được <= sức_gió ? true : false
   end
 end
 
 class Sói
-  def thổi(nhà, sức_gió)
-    nhà.bị_đổ = true if nhà.vật_liệu.mức_gió_chịu_được <= sức_gió
+  def thổi(sức_gió = 1)
+    sức_gió
   end
 end
 
