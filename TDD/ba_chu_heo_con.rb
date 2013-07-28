@@ -8,14 +8,32 @@ class Nhà
   end
 
   def đổ?(sức_gió = 1)
-    if @vật_liệu == 'rơm' && sức_gió >= 1
+    if vật_liệu.mức_gió_chịu_được <= sức_gió
       true
-    elsif @vật_liệu == 'gỗ' && sức_gió >= 2
-      true
-    elsif @vật_liệu == 'gạch'
-      false
     else
       false
     end
+  end
+end
+
+class VậtLiệu
+  attr_accessor :mức_gió_chịu_được
+end
+
+class Rơm < VậtLiệu
+  def initialize
+    @mức_gió_chịu_được = 1
+  end
+end
+
+class Gỗ < VậtLiệu
+  def initialize
+    @mức_gió_chịu_được = 2
+  end
+end
+
+class Gạch < VậtLiệu
+  def initialize
+    @mức_gió_chịu_được = 999
   end
 end
