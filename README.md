@@ -64,9 +64,9 @@ hàng thì sói hứa sẽ giết chú một cách nhân đạo nhất,
 không thì sói sẽ thổi tung nhà rồi dã man lóc thịt
 chú. Heo anh cả từ chối ưu sách của sói, thêm vào đó
 còn doạ sẽ giết chết sói. Sói không chần chừ, hít một
-hơi rồi thổi vào nhà gạch. Ngạc nhiên thay, nha không
-hề xoay suyển. Sói thổi lần hai mạnh hơn, vẫn không hề
-khiên nhà anh cả di chuyển dù là một li. Rồi lần ba,
+hơi rồi thổi nhà. Ngạc nhiên thay, nhà không hề xoay suyển.
+Sói thổi lần hai mạnh hơn, vẫn không hề
+khiến nhà di chuyển dù là một li. Rồi lần ba,
 lần bốn, lần năm, với sức sức gió tăng dần nhưng ngôi
 nhà bằng gạch vẫn đứng nguyên. Cho đến khi sói hoàn
 toàn kiệt sức, lăn đùng ra đất thở hổn hển. Nhân thời
